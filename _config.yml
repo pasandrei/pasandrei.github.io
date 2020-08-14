@@ -1,9 +1,7 @@
 title:            Jordi Pont-Tuset's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              www.popovici.tech
-#http://localhost:5000
-#https://jponttuset.github.io
+url:              
 disqus_shortname: jponttuset
 
 # Owner/author information
